@@ -33,7 +33,6 @@ h1 {
 	padding:20px 17px;
 }
 .container {
-	margin:40px auto 60px;
 	max-width: 940px;
 	background-color:#fff;
 	padding-bottom:40px;
@@ -74,12 +73,15 @@ section {
 	font-family:"Arvo", Georgia, "Times New Roman", Times, serif;
 }
 @media screen and (min-width: 768px) {
-.contact-info {
-	float:right;
-}
+	.container {
+		margin:40px auto 60px;
+	}
+	.contact-info {
+		float:right;
+	}
 }
 @media screen and (min-width: 1024px) {
-.time-period {
-	float:right;
-}
+	.time-period {
+		float:right;
+	}
 }
