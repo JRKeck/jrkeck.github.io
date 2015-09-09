@@ -3,7 +3,7 @@
 
 body {
 	background-color:#b9babe;
-	font-family:"droid sans", Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color:#8E8E8E;
 }
 h1,
@@ -12,7 +12,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family:"Arvo", Georgia, "Times New Roman", Times, serif;
+	font-family: 'Montserrat', sans-serif;
 	color:#464646;
 }
 .bold {
@@ -47,7 +47,6 @@ ul {
 	list-style:disc;
 }
 .summary {
-	font-family:"Arvo", Georgia, "Times New Roman", Times, serif;
 	font-size:18px;
 }
 .contact-info {
@@ -84,7 +83,7 @@ section {
 }
 .time-period {
 	font-size:16px;
-	font-family:"Arvo", Georgia, "Times New Roman", Times, serif;
+	font-family: 'Open Sans', sans-serif;
 }
 @media screen and (min-width: 768px) {
 	.container {
